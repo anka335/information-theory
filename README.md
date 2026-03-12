@@ -39,5 +39,5 @@ An implementation of the Lempel-Ziv-Welch (LZW) dictionary-based compression met
 
 ---
 
-## Data Sources & Setup
+## Data Sources
 The text corpuses and samples used for training and testing these algorithms include normalized text (lowercase Latin letters, digits, spaces) for languages such as English, Latin, Esperanto, Estonian, Somali, Haitian, and Navaho. 
